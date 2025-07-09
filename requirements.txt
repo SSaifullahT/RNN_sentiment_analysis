@@ -7,4 +7,6 @@ flask
 memory_profiler
 streamlit
 scikit-learn
-tensorflow
+tensorflow==2.15.0
+tensorboard
+scikeras
